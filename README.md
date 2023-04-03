@@ -6,4 +6,4 @@ A desktop tool for Path of Exile that makes trading more player-friendly. Curren
 "To install, simply unzip the 'Trade of Exile' folder to a location of your choosing, and you can start the app by running the 'trade of exile.exe' file within the folder."
 
 # Access
-"The tool is currently in Alpha testing. If you already would like to access it, you can do so by supporting the project on Patreon."
+"The tool is currently in Alpha testing. If you already would like to access it, you can do so by supporting the project on Patreon." https://www.patreon.com/TradeofExile
