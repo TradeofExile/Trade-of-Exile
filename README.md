@@ -9,4 +9,3 @@ To install, simply unzip the 'Trade of Exile' folder to a location of your choos
 # Access
 The tool is currently in Alpha testing. If you already would like to access it, you can do so by supporting the project on Patreon.
 https://www.patreon.com/TradeofExile
- 
