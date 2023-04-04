@@ -4,7 +4,7 @@ A desktop tool for Path of Exile that makes trading more player-friendly. Curren
 ![livesearch panel picture](https://user-images.githubusercontent.com/129565402/229520081-5682c34b-e730-4c3c-b4d7-a1b1adbd7bdb.png)
 
 # Installation
-To install, simply unzip the 'Trade of Exile' folder to a location of your choosing, and you can start the app by running the 'Trade of Exile.exe' file within the folder.
+To install, simply unzip the 'Trade of Exile' folder to a location of your choosing, and you can start the app by running the 'Trade of Exile' shortcut within the folder. Right now, non of the funcion need your actual main account poesessid, so you can use new account for it. 
 
 # Access
 The tool is currently in Alpha testing. If you already would like to access it, you can do so by supporting the project on Patreon.
