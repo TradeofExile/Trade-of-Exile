@@ -10,6 +10,7 @@ Start the app by running the 'Trade of Exile.exe' within the main.dist folder.
 Make an account and login
 Non of the funcion need your main account poesessid, so you can use new account for it. 
 
+
 # Access
 We are running an open Alpha test at the league start weekend, so everybody can test the tool if want.
 
