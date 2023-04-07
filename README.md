@@ -5,10 +5,10 @@ A desktop tool for Path of Exile that makes trading more player-friendly. Curren
 
 # Installation
 Download the [lastest realise](https://github.com/TradeofExile/Trade-of-Exile/releases/tag/v0.11)
-to install, simply unzip the 'Trade of Exile' folder to a location of your choosing
-start the app by running the 'Trade of Exile.exe' within the main.dist folder. 
-make an account and login
-non of the funcion need your main account poesessid, so you can use new account for it. 
+To install, simply unzip the 'Trade of Exile' folder to a location of your choosing
+Start the app by running the 'Trade of Exile.exe' within the main.dist folder. 
+Make an account and login
+Non of the funcion need your main account poesessid, so you can use new account for it. 
 
 # Access
 We are running an open Alpha test at the league start weekend, so everybody can test the tool if want.
